@@ -1,0 +1,43 @@
+ID,Hotel,Check_in,Check_out,City
+748f1e07-7f86-45a6-b163-b0bd83229250,Hampton Inn & Suites Ft. Lauderdale/Miramar,"Fri, May 5","Sun, May 7",Miramar
+ffa6ab68-b705-472c-a83f-ef4d15185f39,Hilton Miami Downtown,"Sat, May 6","Mon, May 8",Miami
+f062df60-dcde-4de5-8a76-798be2893a79,Hilton Chicago,"Sat, May 20","Tue, May 23",Chicago
+57f23388-603d-4f8b-b5f7-baa0af8b0365,Hilton Meadowlands East Rutherford,"Sun, May 21","Sun, May 21",East Rutherford
+5f236507-9e42-4c32-8bce-57c70013ae6c,Hampton Inn & Suites Seattle-Downtown,"Wed, Jul 19","Wed, Jul 19",Seattle
+b1561e79-ddec-49ba-aae0-76ffa975ea21,Homewood Suites by Hilton Seattle Downtown,"Wed, Jul 19","Wed, Jul 19",Seattle
+f062df60-dcde-4de5-8a76-798be2893a79,Hilton Chicago,"Sat, Jul 22","Sun, Jul 23",Chicago
+7432eb95-fa02-4c67-b7ce-b6216a3b713a,Hilton Santa Clara,"Sat, Jul 29","Sat, Jul 29",Santa Clara
+57f23388-603d-4f8b-b5f7-baa0af8b0365,Hilton Meadowlands East Rutherford,"Sun, Jul 30","Sun, Jul 30",East Rutherford
+12907230-80e1-4ad1-9a9c-bd8060313466,Embassy Suites by Hilton Seattle Downtown Pioneer Square,"Sun, Aug 27","Sun, Aug 27",Seattle
+12907230-80e1-4ad1-9a9c-bd8060313466,Embassy Suites by Hilton Seattle Downtown Pioneer Square,"Thu, Sep 21","Thu, Sep 21",Seattle
+2860d09e-5137-47c5-ac16-5bcf33605043,Hyatt Regency Louisville,"Fri, Apr 21","Fri, Apr 21",Louisville
+10b2399e-6b75-4474-8f73-d12d3f72a104,Hyatt Regency Cincinnati,"Sat, Jul 1","Sat, Jul 1",Cincinnati
+430b1b02-6d11-405c-b410-31afc6b69be4,Cambria Hotel Pittsburgh - Downtown,"Sun, Mar 19","Sun, Mar 19",Pittsburgh
+d5f518b4-b7b9-4bb2-95da-8224932a5940,The Inn at 97 Winder,"Thu, Mar 23","Thu, Mar 23",Detroit
+145a0b10-a646-4c30-9442-26e0cfd53c01,Graduate Providence,"Mon, May 29","Mon, May 29",Providence
+257092b6-05a0-4293-bc2d-0d4969d23ac6,The Maxwell Hotel - A Staypineapple Hotel,"Wed, Jul 19","Wed, Jul 19",Seattle
+8d0a9460-50f7-4273-9cfd-01a8e34373e4,The Mediterranean Inn,"Wed, Jul 19","Wed, Jul 19",Seattle
+3984c175-9c1f-4ff1-b8a1-6caa3ae05f6b,Graduate Minneapolis,"Fri, Jul 21","Fri, Jul 21",Minneapolis
+d5f518b4-b7b9-4bb2-95da-8224932a5940,The Inn at 97 Winder,"Thu, Jul 27","Thu, Jul 27",Detroit
+d5f518b4-b7b9-4bb2-95da-8224932a5940,The Inn at 97 Winder,"Sun, Aug 6","Sun, Aug 6",Detroit
+1df0de40-ad71-431b-a5be-66b866640484,Holiday Inn St. Paul Downtown,"Mon, Jul 31","Mon, Jul 31",St Paul
+8be572fd-89fc-4fef-9656-cc70d2e82047,Marriott at the University of Dayton,"Tue, Mar 14","Thu, Mar 16",Dayton
+ce731037-508e-450d-ad48-420281d0cb45,Pittsburgh Marriott City Center,"Sun, Mar 19","Sun, Mar 19",Pittsburgh
+2ad867f3-dd00-4fe9-a037-b6eb0ae06926,Aloft Tampa Midtown,"Fri, Apr 14","Fri, Apr 14",Tampa
+90486b74-43bc-492a-84bf-e9256de42db6,"The CURRENT Hotel, Autograph Collection","Sat, Apr 15","Sat, Apr 15",Tampa
+90486b74-43bc-492a-84bf-e9256de42db6,"The CURRENT Hotel, Autograph Collection","Sun, Apr 16","Sun, Apr 16",Tampa
+c457594b-e189-4769-b8b6-98b9621307bc,Courtyard by Marriott Grand Rapids Downtown,"Fri, Apr 28","Fri, Apr 28",Grand Rapids
+ed34a300-5ddb-465a-8eed-ab2b46e7e06b,Atlanta Marriott Marquis,"Sat, Apr 29","Sat, Apr 29",Atlanta
+3f85c9b0-b3e5-4b66-97d5-24b69da504e8,Courtyard by Marriott Phoenix Downtown,"Sun, Jul 23","Sun, Jul 23",Phoenix
+cf0d89bc-c0bf-4f1a-8a82-61d7572926ff,Residence Inn by Marriott Phoenix Downtown,"Sun, Jul 23","Sun, Jul 23",Phoenix
+364e7cfe-bc8c-4bfc-93ff-f1081b3f1e26,Residence Inn Pittsburgh North Shore,"Fri, Aug 4","Fri, Aug 4",Pittsburgh
+ce731037-508e-450d-ad48-420281d0cb45,Pittsburgh Marriott City Center,"Tue, Aug 8","Tue, Aug 8",Pittsburgh
+d3fee028-9c01-4ffa-95d0-83697fd40ec2,"Le MÃƒÂ©ridien Tampa, The Courthouse","Wed, Aug 16","Thu, Aug 17",Tampa
+b4735903-9003-4d31-a658-7d3132190128,Marriott St. Louis Grand,"Tue, Aug 22","Tue, Aug 22",St Louis
+d3fee028-9c01-4ffa-95d0-83697fd40ec2,"Le MÃƒÂ©ridien Tampa, The Courthouse","Thu, Sep 7","Fri, Sep 8",Tampa
+6074443c-ce98-4c73-b5f6-6d0c652af63f,Tampa Marriott Water Street,"Fri, Sep 8","Fri, Sep 8",Tampla
+90486b74-43bc-492a-84bf-e9256de42db6,"The CURRENT Hotel, Autograph Collection","Fri, Sep 8","Fri, Sep 8",Tampa
+66ca8f25-3311-4176-a71e-0def02281f3d,San Diego Marriott Mission Valley,"Thu, Sep 28","Thu, Sep 28",San Diego
+e430b4f4-0b47-4101-985e-5278c3f5a91d,Courtyard Los Angeles Pasadena/Old Town,"Sun, Oct 1","Sun, Oct 1",Pasadena
+e0cdf2ae-0859-4cb6-9955-425d0cf3540b,Residence Inn Los Angeles Pasadena/Old Town,"Sun, Oct 1","Sun, Oct 1",Pasadena
+4d099ead-9ea1-4a50-937e-9c4878f9c460,Four Points by Sheraton Downtown Seattle Center,"Wed, Sep 13","Thu, Sep 14",Seattle
